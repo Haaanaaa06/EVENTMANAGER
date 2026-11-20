@@ -1,0 +1,15 @@
+C:\Users\IT\source\repos\EVENT MANAGER\bin\Debug\EVENT MANAGER.exe.config
+C:\Users\IT\source\repos\EVENT MANAGER\bin\Debug\EVENT MANAGER.exe
+C:\Users\IT\source\repos\EVENT MANAGER\bin\Debug\EVENT MANAGER.pdb
+C:\Users\IT\source\repos\EVENT MANAGER\obj\Debug\EVENT MANAGER.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\EVENT MANAGER\obj\Debug\EVENT MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\EVENT MANAGER\obj\Debug\EVENT MANAGER.exe
+C:\Users\IT\source\repos\EVENT MANAGER\obj\Debug\EVENT MANAGER.pdb
+C:\Users\IT\source\repos\EVENT MANAGER\obj\Debug\EVENT MANAGER.exe.config
+C:\Users\hana\Downloads\EVENT MANAGER\bin\Debug\EVENT MANAGER.exe.config
+C:\Users\hana\Downloads\EVENT MANAGER\bin\Debug\EVENT MANAGER.exe
+C:\Users\hana\Downloads\EVENT MANAGER\bin\Debug\EVENT MANAGER.pdb
+C:\Users\hana\Downloads\EVENT MANAGER\obj\Debug\EVENT MANAGER.csproj.AssemblyReference.cache
+C:\Users\hana\Downloads\EVENT MANAGER\obj\Debug\EVENT MANAGER.csproj.CoreCompileInputs.cache
+C:\Users\hana\Downloads\EVENT MANAGER\obj\Debug\EVENT MANAGER.exe
+C:\Users\hana\Downloads\EVENT MANAGER\obj\Debug\EVENT MANAGER.pdb
