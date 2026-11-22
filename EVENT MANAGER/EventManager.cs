@@ -9,7 +9,7 @@ namespace EVENT_MANAGER
     
         public class EventManager
         {
-            private readonly List<ORGANIZER> _organizers = new List<ORGANIZER>();
+            private readonly List<Organizer> _organizers = new List<Organizer>();
             private readonly List<VENUE> _venues = new List<VENUE>();
             private readonly List<Event> _events = new List<Event>();
             private readonly List<ATTENDEE> _attendees = new List<ATTENDEE>();
@@ -29,7 +29,7 @@ namespace EVENT_MANAGER
                 return id;
             }
 
-            public IReadOnlyList<ORGANIZER> Organizers => _organizers;
+            public IReadOnlyList<Organizer> Organizers => _organizers;
             public IReadOnlyList<VENUE> Venues => _venues;
             public IReadOnlyList<Event> Events => _events;
             public IReadOnlyList<ATTENDEE> Attendees => _attendees;
@@ -37,7 +37,7 @@ namespace EVENT_MANAGER
 
             public ORGANIZER AddOrganizer(string name, string email)
             {
-                var o = new ORGANIZER(GenerateId(), name, email);
+                var o = new Organizer(GenerateId(), name, email);
                 _organizers.Add(o);
                 return o;
             }
