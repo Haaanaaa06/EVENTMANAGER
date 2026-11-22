@@ -8,7 +8,7 @@ namespace EVENT_MANAGER
 {
    
 
-        public class ORGANIZER : Person
+        public class Organizer : Person
         {
             public ORGANIZER(int id, string name, string contactEmail)
                 : base(id, name, contactEmail) { }
