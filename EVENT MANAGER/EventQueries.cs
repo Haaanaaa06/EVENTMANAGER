@@ -28,7 +28,7 @@ using System.Threading.Tasks;
         public class EventDetail
         {
             public Event Event { get; set; }
-            public ORGANIZER Organizer { get; set; }
+            public Organizer Organizer { get; set; }
             public VENUE Venue { get; set; }
         }
 
