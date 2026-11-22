@@ -35,7 +35,7 @@ namespace EVENT_MANAGER
             public IReadOnlyList<ATTENDEE> Attendees => _attendees;
             public IReadOnlyList<Ticket> Tickets => _tickets;
 
-            public ORGANIZER AddOrganizer(string name, string email)
+            public Organizer AddOrganizer(string name, string email)
             {
                 var o = new Organizer(GenerateId(), name, email);
                 _organizers.Add(o);
